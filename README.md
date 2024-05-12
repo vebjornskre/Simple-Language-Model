@@ -1,5 +1,5 @@
 # Simple-Language-Model
-Three models - a word embedding model, a be/have conjugation model, a text generation model
+Three models - a word embedding model, a be/have conjugation model, and a text generation model
 
 We have three notebooks and one utlis python script in this porject. You should have all these files in the same folder.
 To run correctly you need to generata a folder called "generated", and inside this folder, there should be three folders
