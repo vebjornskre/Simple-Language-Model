@@ -10,3 +10,5 @@ To run correctly you need to generata a folder called "generated", and inside th
 3. Run text_generation.ipynb
 
 "utils.py" should not be ran, but is imported in all three notebooks.
+
+Authors of this project was Vebjørn Sæten Skre and Marin Flo Øfstaas
